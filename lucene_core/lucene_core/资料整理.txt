@@ -1,0 +1,14 @@
+<dependency>
+    <groupId>jcseg</groupId>
+    <artifactId>jcseg-core</artifactId>
+    <version>1.9.7</version>
+    <scope>system</scope>
+    <systemPath>${basedir}\src\main\webapp\WEB-INF\lib\jcseg-core-1.9.7.jar</systemPath>
+</dependency>
+<dependency>
+    <groupId>jcseg</groupId>
+    <artifactId>jcseg</artifactId>
+    <version>1.9.7</version>
+    <scope>system</scope>
+    <systemPath>${basedir}\src\main\webapp\WEB-INF\lib\jcseg-analyzer-1.9.7.jar</systemPath>
+</dependency>
